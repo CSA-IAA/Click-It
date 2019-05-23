@@ -52,7 +52,7 @@ l=[0,100]
 image_rect = start_rect.move(l)
 autob = pygame.image.load('autobot.png')
 decept = pygame.image.load('decepticon.png')
-chet = pygame.image.load('Cheetah3.png')
+#chet = pygame.image.load('Cheetah3.png')
 outfile = open('gamecords.txt','w')  # placed here incase click user clicks 'load' before 'save' cuz then file wouldn't exist
 
 while True: # the main game loop
