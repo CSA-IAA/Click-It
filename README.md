@@ -1,0 +1,2 @@
+# Click-It
+A PyGame with a Quit button, a Save button, and an object that will move around. When someone clicks on the screen, there should be some sound effect, the object should move to where they clicked (it can teleport, or move there), unless they click the save/quit buttons (then it shouldn't move at all). When they do click Quit/Save, it should change the button in some way so that it looks like it was clicked. Clicking on quit should close the program, clicking on save should save the last location of the object to a .txt file called location.
